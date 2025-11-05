@@ -3,7 +3,7 @@
 RAG IEP Goal Generator (or rag_iep_gen) is an application that leverages Retrieval Augmented Generation to generate Individualized Education Program (IEP) goals for students with disabilities that align with industry standards and educational frameworks.
 It is availble both as a python executable and as a Streamlit application, which can be easil deployed.
 
-This is a mini ~~capstone~~ project for the [End-to-End Natural Language Processing](https://trac-ai.iastate.edu/event/end-to-end-natural-language-processing-2/) course from [Iowa State Univerity's Translational AI Center](https://trac-ai.iastate.edu/).
+This is a mini final project for the [End-to-End Natural Language Processing](https://trac-ai.iastate.edu/event/end-to-end-natural-language-processing-2/) course from [Iowa State University's Translational AI Center](https://trac-ai.iastate.edu/).
 
 
 ### Setup
